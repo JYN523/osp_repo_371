@@ -6,3 +6,4 @@ create file
 --------------------
 
 branch_2 : 1st modified
+branch_2 : 2nd modified
